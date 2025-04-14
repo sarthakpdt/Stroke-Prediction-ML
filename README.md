@@ -4,7 +4,7 @@ Predict stroke occurrence using multiple machine learning models on health data.
 
 ## Site for Stroke Prediction Using Machine Learning 
 
-[WebPage for Stroke Prediction using Machine Learning](https://sidd4800.github.io/Stroke_Prediction/)
+[Project Page](https://sidd4800.github.io/Stroke_Pred/)
 
 ## Requirements
 
