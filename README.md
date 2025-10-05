@@ -4,13 +4,14 @@ Predict stroke occurrence using multiple machine learning models on health data.
 
 ## Site for Stroke Prediction Using Machine Learning 
 
-[Project Page](https://sidd4800.github.io/Stroke_Pred/)
+[WebPage for Stroke Prediction using Machine Learning](https://siddharthranka-sr.github.io/project-page/)
 
 ## Requirements
 
 Use Python ≥ 3.8. Conda recommended: [Anaconda](https://docs.anaconda.com/anaconda/install/linux/)
 
 Install the following:
+```bash
 1. pandas
 2. numpy
 3. scikit-learn
@@ -18,11 +19,11 @@ Install the following:
 5. seaborn
 6. matplotlib
 7. networkx
-
+```
 
 ## To setup the environment:
 
-bash
+```bash
 # create virtual environment 
 $ conda create -n stroke-prediction python=3.8
 
@@ -31,7 +32,7 @@ $ conda activate stroke-prediction
 
 # install packages 
 $ pip install -r requirements.txt
-
+```
 
 ## Preparing Dataset:
 
@@ -40,7 +41,9 @@ Dataset Download: [Dataset Download](https://www.kaggle.com/datasets/fedesoriano
 Place the dataset in the root directory under /data/
 
 ## Running the code:
+```bash
 Run the Jupyter notebook: Stroke_Prediction.ipynb
+```
 
 All training, evaluation, and visualizations are included in the notebook
 
